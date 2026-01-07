@@ -244,6 +244,7 @@ Recipes are defined in items_game.txt. Available recipes as of late 2022 are:
 - 2 = Trade-Up: 10x Mil-Spec Grade → 1x Restricted
 - 3 = Trade-Up: 10x Restricted → 1x Classified
 - 4 = Trade-Up: 10x Classified → 1x Covert
+- 5 = Trade-Up: 5x Covert → 1x ★ Covert
 - 10 = Trade-Up: 10x StatTrak Consumer Grade → 1x StatTrak Industrial Grade
 - 11 = Trade-Up: 10x StatTrak Industrial Grade → 1x StatTrak Mil-Spec Grade
 - 12 = Trade-Up: 10x StatTrak Mil-Spec Grade → 1x StatTrak Restricted
