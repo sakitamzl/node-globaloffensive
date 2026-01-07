@@ -250,6 +250,7 @@ Recipes are defined in items_game.txt. Available recipes as of late 2022 are:
 - 12 = Trade-Up: 10x StatTrak Mil-Spec Grade → 1x StatTrak Restricted
 - 13 = Trade-Up: 10x StatTrak Restricted → 1x StatTrak Classified
 - 14 = Trade-Up: 10x StatTrak Classified → 1x StatTrak Covert
+- 15 = Trade-Up: 5x StatTrak Classified → 1x StatTrak ★Covert
 
 ### deleteItem(itemId)
 - `itemId` - The ID of the item you want to delete
